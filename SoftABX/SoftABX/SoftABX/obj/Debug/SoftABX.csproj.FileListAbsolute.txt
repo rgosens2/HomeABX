@@ -1,0 +1,59 @@
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\bin\Debug\SoftABX.exe
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\bin\Debug\SoftABX.pdb
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.Form1.resources
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.Form2.resources
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.Properties.Resources.resources
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.csproj.GenerateResource.Cache
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.exe
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.pdb
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.csproj.ResolveComReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\obj\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.csproj.ResolveComReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\bin\Debug\SoftABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\bin\Debug\SoftABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\bin\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.Form1.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.Form2.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.Properties.Resources.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.csproj.GenerateResource.Cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\obj\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.csproj.ResolveComReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\bin\Debug\SoftABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\bin\Debug\SoftABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\bin\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.Form1.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.Form2.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.Properties.Resources.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.csproj.GenerateResource.Cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.AboutBox1.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.csproj.ResolveComReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\bin\Debug\SoftABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\bin\Debug\SoftABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\bin\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.AboutBox1.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.Form1.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.Form2.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.Properties.Resources.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\obj\Debug\SoftABX.csproj.GenerateResource.Cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\SoftABX\SoftABX\SoftABX\obj\Debug\SoftABX.AboutBox1.resources

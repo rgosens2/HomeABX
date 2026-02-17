@@ -1,0 +1,9 @@
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\TestVM8090\TestVM8090\bin\Debug\TestVM8090.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\TestVM8090\TestVM8090\bin\Debug\TestVM8090.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\TestVM8090\TestVM8090\bin\Debug\Velleman.Kits.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\TestVM8090\TestVM8090\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\TestVM8090\TestVM8090\obj\Debug\TestVM8090.Form1.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\TestVM8090\TestVM8090\obj\Debug\TestVM8090.Properties.Resources.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\TestVM8090\TestVM8090\obj\Debug\TestVM8090.csproj.GenerateResource.Cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\TestVM8090\TestVM8090\obj\Debug\TestVM8090.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\TestVM8090\TestVM8090\obj\Debug\TestVM8090.pdb

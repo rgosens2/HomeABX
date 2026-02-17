@@ -1,0 +1,60 @@
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\bin\Debug\HardABX.exe
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\bin\Debug\HardABX.pdb
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.Form1.resources
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.Form2.resources
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.Properties.Resources.resources
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.csproj.GenerateResource.Cache
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.exe
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.pdb
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rik Goossens\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.csproj.ResolveComReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\obj\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\obj\Debug\HardABX.csproj.ResolveComReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\obj\Debug\HardABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\obj\Debug\HardABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\bin\Debug\HardABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\bin\Debug\HardABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\bin\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\obj\Debug\HardABX.Form1.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\obj\Debug\HardABX.Form2.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\obj\Debug\HardABX.Properties.Resources.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\obj\Debug\HardABX.csproj.GenerateResource.Cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\obj\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\obj\Debug\HardABX.csproj.ResolveComReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\obj\Debug\HardABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\obj\Debug\HardABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\bin\Debug\HardABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\bin\Debug\HardABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\bin\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\obj\Debug\HardABX.Form1.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\obj\Debug\HardABX.Form2.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\obj\Debug\HardABX.Properties.Resources.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\obj\Debug\HardABX.csproj.GenerateResource.Cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\HardABX\obj\Debug\HardABX.AboutBox1.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.csproj.ResolveComReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\bin\Debug\HardABX.exe
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\bin\Debug\HardABX.pdb
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\bin\Debug\Interop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.AboutBox1.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.Form1.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.Form2.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.Properties.Resources.resources
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\obj\Debug\HardABX.csproj.GenerateResource.Cache
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\bin\Debug\Velleman.Kits.dll
+C:\Users\RG_Admin\Documents\Visual Studio 2008\Projects\HardABX\HardABX\HardABX\obj\Debug\HardABX.AboutBox1.resources
