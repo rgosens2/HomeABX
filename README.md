@@ -7,5 +7,7 @@ HomeABX can be used to objectively determine audio transparency.
 
 HomeABX consists of [HardABX](http://hardabx.blogspot.nl/p/manual.html) and [SoftABX](http://softabx.blogspot.com/).
 
+<br>
+<center>
 <img width="320" height="227" alt="hardabx2" src="https://github.com/user-attachments/assets/dcbc9966-3b10-4b66-9d23-659c750fa5f7" />
-
+</center>
