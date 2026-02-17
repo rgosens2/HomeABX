@@ -9,5 +9,5 @@ HomeABX consists of [HardABX](http://hardabx.blogspot.nl/p/manual.html) and [Sof
 
 <br><br>
 <p align="center">
-<img width="320" height="227" alt="hardabx2" src="https://github.com/user-attachments/assets/dcbc9966-3b10-4b66-9d23-659c750fa5f7" />
+  <img width="548" height="388" alt="hardabx2" src="https://github.com/user-attachments/assets/b3d18ae9-028b-4204-82f2-f040244c7d51" />
 </p>
